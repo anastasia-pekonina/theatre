@@ -1,0 +1,98 @@
+
+body{
+
+    margin: 0px;
+}
+
+
+
+/* хедер начало*/
+
+
+
+.header{
+    display: block;
+    background: url(./img/Rectangle\ 3.png);
+    background-size: cover;
+    height: 100vh;
+}
+nav{
+    width: 960px;
+    margin: 0 auto;
+    display:block;
+}
+ul li{
+    float: left;
+    list-style: none;
+    margin-top: 35px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 50px;
+    word-spacing: 5px;
+    padding-left: 50px;
+    margin-left: 50px;
+
+}
+.number{
+    float:left;
+    color: white;
+    margin-top:50px;
+    padding-right:50px;
+    line-height:50px;
+    font-weight:500;
+    text-decoration: underline;
+    
+}
+.big{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+    color: white;
+    line-height: 87,16px;
+    margin-top: 88px;
+    padding-left: 195px;
+    font-weight: 500;
+}
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+    line-height: 21px;
+    font-weight: 400;
+    margin-top: 20px;
+    padding-left: 195px;
+    word-spacing: 5px;
+}
+.slider{
+    position: absolute;
+    padding-left: 70px;
+    margin-top: 50px;
+}
+.afisha{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: 195px;
+   background-color:#D1A954;
+   color:white;
+   text-transform: uppercase;
+   font-size: 13px;
+   font-weight: 400;
+   font-family: Arial, sans-serif;
+    border-radius: 3px;
+   width: 100px;
+   height: 30px;
+   border: 0px;
+}
+/*Конец хедера*/
+
+
+
+/*Начало секциии номер1*/
+.section1{
+    background-color:#464849 ;
+    background-size: cover;
+    height: 100vh;
+}
